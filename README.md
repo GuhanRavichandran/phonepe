@@ -13,8 +13,14 @@ Data Retrieval: Fetching data from the database to dynamically update the dashbo
 
 Imported packages
 import pandas as pd
+
 import mysql.connector
+
 import streamlit as st
+
 import plotly.express as px
+
 import requests as rq
+
 import json 
+
